@@ -1,0 +1,7 @@
+#+title: (Thoughts on (Tech)) 
+#+author: Fontux
+
+* Introduction
+  This is a personal site with technology articles.
+
+
