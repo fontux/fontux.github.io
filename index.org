@@ -3,5 +3,4 @@
 
 * Introduction
   This is a personal site with technology articles.
-
-
+  [[file://assets/images/emacs_logo.svg][Emacs]] inside.
