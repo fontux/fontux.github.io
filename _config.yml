@@ -1,3 +1,6 @@
+# format
+encoding:	  utf-8
+
 # Dependencies
 markdown:         Kramdown
 pygments:         true
